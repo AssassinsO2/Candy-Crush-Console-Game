@@ -32,5 +32,10 @@ A terminal-based **match-3, 4, 5 puzzle game** inspired by the classic Candy Cru
 
 ## 🖥️ Sample Screenshot
 
-*(You can add a screenshot or GIF of your game here)*
+
+![Image 5](https://github.com/user-attachments/assets/cfc88d75-17b7-4744-8af4-327d6fdc1848)
+![Image 4](https://github.com/user-attachments/assets/4a267fcc-13e8-4771-ac6d-80cd23fdd97b)
+![Image 3](https://github.com/user-attachments/assets/9d4bd13b-2f99-42fa-a22e-195b06cf134d)
+![Image 2](https://github.com/user-attachments/assets/07762c21-342e-4c49-bc39-fe9ce7c2b934)
+![Image 1](https://github.com/user-attachments/assets/1c1b015b-6f53-4044-818f-db6cd0708408)
 
